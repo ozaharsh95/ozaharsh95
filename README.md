@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Welcome..!
+<p align="center">
+<img src="giphy.gif" alt="cool gif">
+</p>
 <h1 align="center">Hi 👋, I'm Harsh Oza</h1>
 <h3 align="center">A passionate frontend developer and backend and web security enthusiastic.</h3>
 
