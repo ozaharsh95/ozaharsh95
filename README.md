@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Oza</h1>
 <h3 align="center">A passionate frontend developer and backend and web security enthusiastic.</h3>
 
-
 - 🔭 I’m currently working on **developement skills**
 
 - 🌱 I’m currently learning **Javascript,Typescript**
