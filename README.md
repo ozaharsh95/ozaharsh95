@@ -29,3 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozaharsh95&" alt="ozaharsh95" /></p>
 
+![](https://komarev.com/ghpvc/?username=ozaharsh95&style=flat-square)
+
