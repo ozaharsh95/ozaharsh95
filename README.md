@@ -1,17 +1,16 @@
 ### Welcome..!
 
 <h1 align="center">Hi 👋, I'm Harsh Oza</h1>
-<h3 align="center">A passionate frontend developer and backend and web security enthusiastic.</h3>
+<h3 align="center">A passionate backend and web security enthusiastic.</h3>
+<h3>My Projects  🎯</h3>
+<ul>
+  <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
+  <li>📌 <a href="https://github.com/ozaharsh95/javascript30">30 Projects using javascript.</a></li>
+  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Advanced%20Data%20Structure">Simulation of System of sum of intervals</a></li>
+  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Networl Design Circuit using Cisco Packet Tracer</a></li>
+  
+</ul>
 
-- 🔭 I’m currently working on **developement skills**
-
-- 🌱 I’m currently learning **Javascript,Typescript**
-
-- 👯 I’m looking to collaborate on **fullstack js projects**
-
-- 📫 How to reach me **harshoza77@gmail.com**
-
-- ⚡ Fun fact **There is no fun in fun fact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
