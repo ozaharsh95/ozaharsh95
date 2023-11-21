@@ -5,6 +5,7 @@
 <h3>My Projects  🎯</h3>
 <ul>
   <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
+  <li>📌 <a href="https://github.com/ozaharsh95/chat-application">Real time Chat Applicayion using ExpressJS</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/javascript30">30 Projects using javascript.</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Advanced%20Data%20Structure">Simulation of System of sum of intervals</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Network Design Circuit using Cisco Packet Tracer</a></li>
