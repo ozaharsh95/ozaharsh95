@@ -14,7 +14,7 @@
 </ul>
 <h3>Work Experience</h3>
 <ul>
-  <li>SDE Intern @ AlphaBI</li>
+  <li>SDE Intern @ AlphaBI [Jan 2024 - present]</li>
 </ul>
 <h3>Education </h3>
 <ul>
