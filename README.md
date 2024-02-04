@@ -1,7 +1,10 @@
 ### Welcome..!
 
-<h1 align="center">Hi 👋, I'm Harsh Oza</h1>
-<h3 align="center">A passionate backend and web security enthusiast.</h3>
+
+<div>
+  <img src="./See the good in yourself and in others..png">
+</div>
+
 <h3>My Projects  🎯</h3>
 <ul>
   <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
