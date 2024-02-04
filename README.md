@@ -28,10 +28,20 @@
 <li>harshoza77@gmail.com</li>
 
 <div>
+<div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozaharsh95&theme=onedark)
+  </div>
+  <div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozaharsh95&theme=onedark)
+  </div>
+  <div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozaharsh95&theme=onedark)
+  </div>
+  <div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozaharsh95&theme=onedark)
+  </div>
+  <div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ozaharsh95&theme=onedark&utcOffset=8)
+  </div>
 </div>
 
