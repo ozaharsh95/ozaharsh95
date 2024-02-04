@@ -27,20 +27,22 @@
 </p>
 <li>harshoza77@gmail.com</li>
 
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;">
 <div>
-<div>
+
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozaharsh95&theme=onedark)
   </div>
-  <div>
+  <div style="display:flex;justify-content:center;">
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozaharsh95&theme=onedark)
-  </div>
-  <div>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozaharsh95&theme=onedark)
   </div>
-  <div>
+  <div style="display:flex;justify-content:center;">
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozaharsh95&theme=onedark)
-  </div>
-  <div>
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ozaharsh95&theme=onedark&utcOffset=8)
   </div>
 </div>
