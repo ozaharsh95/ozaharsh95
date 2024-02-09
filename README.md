@@ -15,14 +15,14 @@
   <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Advanced%20Data%20Structure">Simulation of System of sum of intervals</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Network Design Circuit using Cisco Packet Tracer</a></li>
 </ul>
-<h3>Work Experience</h3>
+<!-- <h3>Work Experience</h3>
 <ul>
   <li>SDE Intern @ AlphaBI [Jan 2024 - present]</li>
 </ul>
 <h3>Education </h3>
 <ul>
   <li>Btech CSE @ Nirma University [2020-24]</li>
-</ul>
+</ul> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
