@@ -7,13 +7,14 @@
 
 <h3>My Projects  🎯</h3>
 <ul>
-  <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
+  <li>Currently working on it with fresh skillsets and learning</li>
+<!--   <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/chat-application">Real time Chat Application using ExpressJS</a></li>
    <li>📌 <a href="https://github.com/ozaharsh95/LMS_backend">REST APIs for assignment management for LMS using NodeJS and ExpressJS</a></li>
    <li>📌 <a href="https://github.com/ozaharsh95/next-giphy-app">NextJS App with Firebase Authentication with GIPHY GIF API Integration</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/javascript30">30 Projects using javascript.</a></li>
   <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Advanced%20Data%20Structure">Simulation of System of sum of intervals</a></li>
-  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Network Design Circuit using Cisco Packet Tracer</a></li>
+  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Network Design Circuit using Cisco Packet Tracer</a></li> -->
 </ul>
 <!-- <h3>Work Experience</h3>
 <ul>
