@@ -1,6 +1,5 @@
 ### Welcome..!
 
-
 <div>
   <img src="./See the good in yourself and in others..png">
 </div>
@@ -28,8 +27,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozaharsh955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozaharsh955" height="30" width="40" /></a>
-</p>
 
+[`📫 harsh.oza.work@gmail.com`](mailto:harsh.oza.work@gmail.com)
+
+</p>
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;">
 <div>
@@ -49,4 +50,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ozaharsh95&theme=onedark&utcOffset=8">
   </div>
 </div>
-
