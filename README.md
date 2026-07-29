@@ -4,33 +4,42 @@
   <img src="./See the good in yourself and in others..png">
 </div>
 
-<h3>My Projects  🎯</h3>
-<ul>
-  <li>Currently working on it with fresh skillsets and learning</li>
-<!--   <li>📌 <a href="https://github.com/ozaharsh95/Super_Market_Management_System">Super Market Management System using Java Swing GUI.</a></li>
-  <li>📌 <a href="https://github.com/ozaharsh95/chat-application">Real time Chat Application using ExpressJS</a></li>
-   <li>📌 <a href="https://github.com/ozaharsh95/LMS_backend">REST APIs for assignment management for LMS using NodeJS and ExpressJS</a></li>
-   <li>📌 <a href="https://github.com/ozaharsh95/next-giphy-app">NextJS App with Firebase Authentication with GIPHY GIF API Integration</a></li>
-  <li>📌 <a href="https://github.com/ozaharsh95/javascript30">30 Projects using javascript.</a></li>
-  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Advanced%20Data%20Structure">Simulation of System of sum of intervals</a></li>
-  <li>📌 <a href="https://github.com/ozaharsh95/innovative_project/tree/main/Computer%20Networks">University Network Design Circuit using Cisco Packet Tracer</a></li> -->
-</ul>
-<!-- <h3>Work Experience</h3>
-<ul>
-  <li>SDE Intern @ AlphaBI [Jan 2024 - present]</li>
-</ul>
-<h3>Education </h3>
-<ul>
-  <li>Btech CSE @ Nirma University [2020-24]</li>
-</ul> -->
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ozaharsh955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozaharsh955" height="30" width="40" /></a>
-
-[`📫 harsh.oza.work@gmail.com`](mailto:harsh.oza.work@gmail.com)
-
+  <a href="mailto:harsh.oza.work@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/d14836/d14836" alt="Gmail" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/harshoza955" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ozaharsh95" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/ozaharsh95" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000/ffffff" alt="X" height="30" width="30" />
+  </a>
 </p>
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+#### 🏫 [EduHub: Multi-Role University Management System](https://github.com/ozaharsh95/university-management)
+
+A production-grade, highly secure, and modern University / Learning Management System (LMS) designed to streamline academic administration, course scheduling, and student-faculty portal communication.
+
+- **Key Features:**
+  - 🔐 **Multi-Role Dashboards:** Custom portals and key metric indicators tailored for Admins, Teachers, and Students, built using the enterprise admin framework **Refine**.
+  - 🛡️ **Advanced API Security:** Web Application Firewall (WAF) Shield, bot detection, and custom role-based sliding window rate-limiting using **Arcjet**.
+  - 🔑 **Secure Identity & Session Management:** Secure credential authentication and active session checking powered by **Better-Auth**.
+  - ☁️ **Cloud Asset Management:** Real-time image uploads for user profiles and class banners powered by **Cloudinary**.
+- **Tech Stack:** React 19, Refine, Vite 6, Node.js, Express v5, PostgreSQL (Neon Serverless), Drizzle ORM, Tailwind CSS v4, Shadcn UI
+- **Links:** [💻 GitHub Repository](https://github.com/ozaharsh95/university-management) &nbsp;|&nbsp; [🌐 Live Demo](https://github.com/ozaharsh95)
+
+---
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;">
 <div>
