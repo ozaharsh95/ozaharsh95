@@ -37,7 +37,7 @@ A production-grade, highly secure, and modern University / Learning Management S
   - 🔑 **Secure Identity & Session Management:** Secure credential authentication and active session checking powered by **Better-Auth**.
   - ☁️ **Cloud Asset Management:** Real-time image uploads for user profiles and class banners powered by **Cloudinary**.
 - **Tech Stack:** React 19, Refine, Vite 6, Node.js, Express v5, PostgreSQL (Neon Serverless), Drizzle ORM, Tailwind CSS v4, Shadcn UI
-- **Links:** [💻 GitHub Repository](https://github.com/ozaharsh95/university-management) &nbsp;|&nbsp; [🌐 Live Demo](https://github.com/ozaharsh95)
+- **Links:** [💻 GitHub Repository - Frontend](https://github.com/ozaharsh95/university-management-system-frontend) &nbsp;|&nbsp;  [💻 GitHub Repository - Backend](https://github.com/ozaharsh95/university-management-system-backend) &nbsp;|&nbsp; [🌐 Live Demo](https://university-management-system-fronte-six.vercel.app/)
 
 ---
 
