@@ -3,6 +3,7 @@
 <div>
   <img src="./See the good in yourself and in others..png">
 </div>
+
 ## 👋 Hi, I'm Harsh Oza
 
 I'm a Full-Stack JavaScript developer passionate about building scalable web applications, modern developer experiences, and open-source software.
