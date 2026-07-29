@@ -3,6 +3,44 @@
 <div>
   <img src="./See the good in yourself and in others..png">
 </div>
+## 👋 Hi, I'm Harsh Oza
+
+I'm a Full-Stack JavaScript developer passionate about building scalable web applications, modern developer experiences, and open-source software.
+
+### 💻 Currently Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,postgres,tailwind" />
+</p>
+
+### 🌱 Open Source
+
+I'm always interested in collaborating with developers and teams on meaningful open-source projects.
+
+I'm happy to contribute through:
+
+* 🐛 Bug fixes
+* ✨ New feature development
+* 🔍 Pull Request reviews
+* 📦 Codebase maintenance
+* ♻️ Legacy project modernization & migration
+* 🚀 Performance improvements
+* 📖 Documentation and developer experience enhancements
+
+If you have an interesting repository, issue, or idea where I can help, I'd love to contribute.
+
+### 🤝 Available for Opportunities
+
+I'm currently open to:
+
+* Freelance projects
+* Part-time opportunities
+* Full-time roles
+* Open-source collaborations
+
+Whether you have a project idea, need help building a product, want a contributor for your repository, or have a career opportunity, feel free to reach out.
+
+📧 **Email:** **[harsh.oza.work@gmail.com](mailto:harsh.oza.work@gmail.com)**
 
 <h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
