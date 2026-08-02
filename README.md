@@ -98,3 +98,11 @@ A production-grade, highly secure, and modern University / Learning Management S
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ozaharsh95&theme=onedark&utcOffset=8">
   </div>
 </div>
+
+---
+
+## 🚜 Git Animal Farm
+
+<a href="https://github.com/ozaharsh95/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ozaharsh95" alt="git_animal_farm" style="width:100%;"/>
+</a>
