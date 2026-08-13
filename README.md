@@ -16,9 +16,11 @@ I'm a Full-Stack JavaScript developer passionate about building scalable web app
 
 ### 🌱 Open Source
 
-I'm always interested in collaborating with developers and teams on meaningful open-source projects.
++ [Flexbox Froggy (7.4k+ stars)](https://github.com/thomaspark/flexboxfroggy/) — [PR](https://github.com/thomaspark/flexboxfroggy/pull/265) | Gujarati localization merged into main, with the collaborative code-review detail included since maintainers value seeing you take feedback well.
 
-I'm happy to contribute through:
++ [AFOS – African Open Source (CHAOSS/GitHub-funded)](https://github.com/chaoss/AFOS-AfricanOpenSource/) — [PR](https://github.com/chaoss/AFOS-AfricanOpenSource/pull/39) | the paginated, responsive Project Page feature, plus the maintainer's invitation to keep contributing (a nice signal of trust/quality).
+
+I'm always interested in collaborating with developers and teams on meaningful open-source projects. I'm happy to contribute through:
 
 * 🐛 Bug fixes
 * ✨ New feature development
